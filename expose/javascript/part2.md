@@ -49,4 +49,8 @@
 
 17. It will return [2,4,6]. In modifyArray function, it will loop through every element in array. Then pass every to callback function which is doSomething. Inside the callback function, it will mutiply every element by 2. Then, store that to newArr.
 
-18. 
+18. js file
+
+19. 1 4 3 2
+
+
